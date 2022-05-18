@@ -12,3 +12,5 @@ Alot of Problem faced while working on KNN because it was time consuming and cod
 
 In SVM there was alot of problems too the main problem I was facing was liblinear failing to converge and unable to print k fold accuracy scores then tried different values of i like 7 8 9 and at last submitted the best resulted file. 
 
+![image](https://user-images.githubusercontent.com/99890248/169085580-92f3b490-c703-417a-aaf7-82b861439a2c.png)
+
